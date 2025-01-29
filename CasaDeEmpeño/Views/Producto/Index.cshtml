@@ -1,0 +1,72 @@
+﻿@model IEnumerable<CasaDeEmpeño.Models.Producto>
+@{
+    ViewBag.Title = "Productos";
+    var mensajes = new Dictionary<string, string>
+    {
+        { "Agregado", "alert-success" },
+        { "Editado", "alert-warning" },
+        { "Borrado", "alert-danger" }
+    };
+    var mensajeActual = mensajes.FirstOrDefault(m => TempData[m.Key] != null);
+}
+
+@if (!string.IsNullOrEmpty(mensajeActual.Key))
+{
+    <div id="mensajeTemp" class="alert @mensajeActual.Value" style="margin-top: 15px;">
+        @TempData[mensajeActual.Key]
+    </div>
+}
+
+<div class="container">
+    <h2 class="text-center" style="margin-top: 20px;">Productos</h2>
+    <a href="@Url.Action("Agregar", "Producto")" class="btn btn-success btn-sm" style="margin-bottom: 10px;">Agregar</a>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(p => p.Id)</th>
+                <th>@Html.DisplayNameFor(p => p.Nombre)</th>
+                <th>@Html.DisplayNameFor(p => p.FechaIngreso)</th>
+                <th>@Html.DisplayNameFor(p => p.Valor)</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var producto in Model)
+                {
+                    <tr>
+                        <td>@producto.Id</td>
+                        <td>@producto.Nombre</td>
+                        <td>@producto.FechaIngreso.ToString("dd/MM/yyyy")</td>
+                        <td>@producto.Valor.ToString("C")</td>
+                        <td>
+                            @if (producto.Editable != 0)
+                            {
+                                <a href="@Url.Action("Editar", "Producto", new { id = producto.Id })" class="btn btn-warning btn-sm">Editar</a>
+                                <a href="@Url.Action("Borrar", "Producto", new { id = producto.Id })" class="btn btn-danger btn-sm">Borrar</a>
+                            }
+                            <a href="@Url.Action("Ver", "Producto", new { id = producto.Id })" class="btn btn-info btn-sm">Ver</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7" class="text-center">No hay productos disponibles.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        setTimeout(function () {
+            $("#mensajeTemp").fadeOut("slow");
+        }, 3000);
+    });
+</script>

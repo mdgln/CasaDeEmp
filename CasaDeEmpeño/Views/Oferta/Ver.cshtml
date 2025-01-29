@@ -1,0 +1,44 @@
+﻿@model CasaDeEmpeño.Models.Oferta
+@{
+    ViewBag.Title = "Ver";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <div class="panel panel-default" style="margin-top: 50px;">
+                <div class="panel-heading text-center">
+                    <h3 class="panel-title">Ver Oferta</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="form-group">
+                        @Html.LabelFor(o => o.Id)
+                        @Html.TextBoxFor(o => o.Id, new { @class = "form-control", @readonly = true })
+                        @Html.ValidationMessageFor(o => o.Id, String.Empty, new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(o => o.ProductoId)
+                        @Html.DropDownListFor(m => m.ProductoId, new SelectList(ViewBag.Producto, "Id", "Nombre"), new { @class = "form-control", @readonly = true })
+                        @Html.ValidationMessageFor(o => o.ProductoId, String.Empty, new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(o => o.NombrePersona)
+                        @Html.TextBoxFor(o => o.NombrePersona, new { @class = "form-control", @readonly = true })
+                        @Html.ValidationMessageFor(o => o.NombrePersona, String.Empty, new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(o => o.NumeroCelular)
+                        @Html.TextBoxFor(o => o.NumeroCelular, new { @class = "form-control", @readonly = true })
+                        @Html.ValidationMessageFor(o => o.NumeroCelular, String.Empty, new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(o => o.Monto)
+                        @Html.TextBoxFor(o => o.Monto, new { @class = "form-control", @readonly = true })
+                        @Html.ValidationMessageFor(o => o.Monto, String.Empty, new { @class = "text-danger" })
+                    </div>
+                    @Html.ActionLink("Regresar", "Index", "Oferta", new { @class = "btn btn-info btn-block" })
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<CasaDeEmpeño.Models.EstadoProducto>
+@{
+    ViewBag.Title = "Estados";
+    var mensajes = new Dictionary<string, string>
+    {
+        { "Agregado", "alert-success" },
+        { "Editado", "alert-warning" },
+        { "Borrado", "alert-danger" }
+    };
+    var mensajeActual = mensajes.FirstOrDefault(m => TempData[m.Key] != null);
+}
+
+@if (!string.IsNullOrEmpty(mensajeActual.Key))
+{
+    <div id="mensajeTemp" class="alert @mensajeActual.Value" style="margin-top: 15px;">
+        @TempData[mensajeActual.Key]
+    </div>
+}
+
+<div class="container">
+    <h2 class="text-center" style="margin-top: 20px;">Estados</h2>
+    <a href="@Url.Action("Agregar", "EstadoProducto")" class="btn btn-success btn-sm" style="margin-bottom: 10px;">Agregar</a>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(e => e.Id)</th>
+                <th>@Html.DisplayNameFor(e => e.Descripcion)</th>
+                <th>@Html.DisplayNameFor(e => e.Estatus)</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var estado in Model)
+                {
+                    <tr>
+                        <td>@estado.Id</td>
+                        <td>@estado.Descripcion</td>
+                        <td>@estado.Estatus</td>
+                        <td>
+                            <a href="@Url.Action("Editar", "EstadoProducto", new { id = estado.Id })" class="btn btn-warning btn-sm">Editar</a>
+                            <a href="@Url.Action("Borrar", "EstadoProducto", new { id = estado.Id })" class="btn btn-danger btn-sm">Borrar</a>
+                            <a href="@Url.Action("Ver", "EstadoProducto", new { id = estado.Id })" class="btn btn-info btn-sm">Ver</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7" class="text-center">No hay estados disponibles.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        setTimeout(function () {
+            $("#mensajeTemp").fadeOut("slow");
+        }, 3000);
+    });
+</script>

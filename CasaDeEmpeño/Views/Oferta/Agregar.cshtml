@@ -1,0 +1,45 @@
+﻿@model CasaDeEmpeño.Models.Oferta
+@{
+    ViewBag.Title = "Agregar";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <div class="panel panel-default" style="margin-top: 50px;">
+                <div class="panel-heading text-center">
+                    <h3 class="panel-title">Agregar Oferta</h3>
+                </div>
+                <div class="panel-body">
+                    @using (Html.BeginForm(null, null, FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group">
+                            @Html.LabelFor(o => o.ProductoId)
+                            @Html.DropDownListFor(m => m.ProductoId, new SelectList(ViewBag.Productos, "Id", "Nombre"), "- Selecciona uno -", new { @class = "form-control" })
+                            @Html.ValidationMessageFor(o => o.ProductoId, String.Empty, new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(o => o.NombrePersona)
+                            @Html.TextBoxFor(o => o.NombrePersona, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(o => o.NombrePersona, String.Empty, new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(o => o.NumeroCelular)
+                            @Html.TextBoxFor(o => o.NumeroCelular, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(o => o.NumeroCelular, String.Empty, new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(o => o.Monto)
+                            @Html.TextBoxFor(o => o.Monto, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(o => o.Monto, String.Empty, new { @class = "text-danger" })
+                        </div>
+                        <input type="submit" class="btn btn-success btn-block" value="Agregar" style="margin-bottom: 10px;" />
+                        @Html.ActionLink("Regresar", "Index", "Oferta", new { @class = "btn btn-info btn-block" })
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

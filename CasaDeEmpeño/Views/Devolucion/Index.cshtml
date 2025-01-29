@@ -1,0 +1,62 @@
+﻿@model IEnumerable<CasaDeEmpeño.Models.Devolucion>
+@{
+    ViewBag.Title = "Devoluciones";
+    var mensajes = new Dictionary<string, string>
+    {
+        { "Agregado", "alert-success" },
+    };
+    var mensajeActual = mensajes.FirstOrDefault(m => TempData[m.Key] != null);
+}
+
+@if (!string.IsNullOrEmpty(mensajeActual.Key))
+{
+    <div id="mensajeTemp" class="alert @mensajeActual.Value" style="margin-top: 15px;">
+        @TempData[mensajeActual.Key]
+    </div>
+}
+
+<div class="container">
+    <h2 class="text-center" style="margin-top: 20px;">Devoluciones</h2>
+    <a href="@Url.Action("Agregar", "Devolucion")" class="btn btn-success btn-sm" style="margin-bottom: 10px;">Agregar</a>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(d => d.Id)</th>
+                <th>@Html.DisplayNameFor(d => d.ProductoId)</th>
+                <th>@Html.DisplayNameFor(d => d.Comentario)</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var devolucion in Model)
+                {
+                    <tr>
+                        <td>@devolucion.Id</td>
+                        <td>@devolucion.NombreProducto</td>
+                        <td>@devolucion.Comentario</td>
+                        <td>
+                            <a href="@Url.Action("Ver", "Devolucion", new { id = devolucion.Id })" class="btn btn-info btn-sm">Ver</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7" class="text-center">No hay devoluciones disponibles.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        setTimeout(function () {
+            $("#mensajeTemp").fadeOut("slow");
+        }, 3000);
+    });
+</script>

@@ -1,0 +1,91 @@
+﻿@model IEnumerable<CasaDeEmpeño.Models.Oferta>
+@{
+    ViewBag.Title = "Ofertas";
+    var mensajes = new Dictionary<string, string>
+    {
+        { "Agregado", "alert-success" },
+    };
+    var mensajeActual = mensajes.FirstOrDefault(m => TempData[m.Key] != null);
+
+    Dictionary<int, CasaDeEmpeño.Models.Oferta> mejoresOfertas = Model?
+        .GroupBy(o => o.ProductoId)
+        .ToDictionary(
+            g => g.Key,
+            g => g.OrderBy(o => Math.Abs(o.PrecioProducto - o.Monto)).FirstOrDefault()
+        ) ?? new Dictionary<int, CasaDeEmpeño.Models.Oferta>();
+
+    int? productoOfertadoId = TempData["ProductoId"] as int?;
+}
+
+@if (!string.IsNullOrEmpty(mensajeActual.Key))
+{
+    <div id="mensajeTemp" class="alert @mensajeActual.Value" style="margin-top: 15px;">
+        @TempData[mensajeActual.Key]
+    </div>
+}
+
+    <div class="container">
+        <h2 class="text-center" style="margin-top: 20px;">Ofertas</h2>
+        <a href="@Url.Action("Agregar", "Oferta")" class="btn btn-success btn-sm" style="margin-bottom: 10px;">Agregar</a>
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(o => o.Id)</th>
+                    <th>@Html.DisplayNameFor(o => o.ProductoId)</th>
+                    <th>@Html.DisplayNameFor(o => o.NombrePersona)</th>
+                    <th>@Html.DisplayNameFor(o => o.Monto)</th>
+                    <th>Opciones</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var oferta in Model)
+                    {
+                        var esMejorOferta = mejoresOfertas.ContainsKey(oferta.ProductoId) && mejoresOfertas[oferta.ProductoId].Id == oferta.Id;
+                        <tr class="@(esMejorOferta ? "bg-success" : "")">
+                            <td>@oferta.Id</td>
+                            <td>@oferta.NombreProducto</td>
+                            <td>@oferta.NombrePersona</td>
+                            <td>@oferta.Monto.ToString("C")</td>
+                            <td>
+                                <a href="@Url.Action("Ver", "Oferta", new { id = oferta.Id })" class="btn btn-info btn-sm">Ver</a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="7" class="text-center">No hay ofertas disponibles.</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+
+        @if (productoOfertadoId.HasValue && mejoresOfertas.ContainsKey(productoOfertadoId.Value))
+        {
+            var mejorOferta = mejoresOfertas[productoOfertadoId.Value];
+            <div class="alert alert-info" id="mensajeOferta">
+                La mejor oferta para <strong>@mejorOferta.NombreProducto</strong> es de <strong>@mejorOferta.NombrePersona</strong> con un monto de <strong>@mejorOferta.Monto.ToString("C")</strong>.
+            </div>
+        }
+
+    </div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        setTimeout(function () {
+            $("#mensajeTemp").fadeOut("slow");
+        }, 3000);
+    });
+
+    $(document).ready(function () {
+        setTimeout(function () {
+            $("#mensajeOferta").fadeOut("slow");
+        }, 3000);
+    });
+</script>

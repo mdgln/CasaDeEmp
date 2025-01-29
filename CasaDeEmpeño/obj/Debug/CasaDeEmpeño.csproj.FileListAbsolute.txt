@@ -1,0 +1,224 @@
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\CasaDeEmpeño.dll.config
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\CasaDeEmpeño.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\CasaDeEmpeño.pdb
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\csc.exe
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\csc.exe.config
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\csc.rsp
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\csi.exe
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\csi.rsp
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\System.AppContext.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\vbc.exe
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\vbc.exe.config
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\vbc.rsp
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\Antlr3.Runtime.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\Newtonsoft.Json.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Helpers.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Mvc.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Optimization.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Razor.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.WebPages.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.WebPages.Razor.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\WebGrease.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Helpers.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Mvc.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Optimization.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.Razor.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.WebPages.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\System.Web.WebPages.Razor.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\Newtonsoft.Json.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\Antlr3.Runtime.pdb
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.AssemblyReference.cache
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CopyComplete
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.dll
+C:\Users\maudg\source\repos\CasaDeEmpeño\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.pdb
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\CasaDeEmpeño.dll.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\CasaDeEmpeño.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\CasaDeEmpeño.pdb
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csc.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csc.exe.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csc.rsp
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csi.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csi.rsp
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.AppContext.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\vbc.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\vbc.exe.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\vbc.rsp
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Antlr3.Runtime.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Newtonsoft.Json.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Helpers.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Mvc.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Optimization.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Razor.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Razor.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\WebGrease.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Helpers.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Mvc.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Optimization.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Razor.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Razor.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Newtonsoft.Json.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Antlr3.Runtime.pdb
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csprojAssemblyReference.cache
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CopyComplete
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.pdb
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\CasaDeEmpeño.dll.config
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\CasaDeEmpeño.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\CasaDeEmpeño.pdb
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csc.exe
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csc.exe.config
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csc.rsp
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csi.exe
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\csi.rsp
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.AppContext.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\vbc.exe
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\vbc.exe.config
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\vbc.rsp
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Antlr3.Runtime.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Newtonsoft.Json.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Helpers.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Mvc.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Optimization.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Razor.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Razor.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\WebGrease.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Helpers.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Mvc.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Optimization.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.Razor.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\System.Web.WebPages.Razor.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Newtonsoft.Json.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Antlr3.Runtime.pdb
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.AssemblyReference.cache
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CopyComplete
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.dll
+C:\Users\maudg\source\repos\CasaDeEmpe-oBeta\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.pdb
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\CasaDeEmpeño.dll.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\CasaDeEmpeño.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\CasaDeEmpeño.pdb
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\csc.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\csc.exe.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\csc.rsp
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\csi.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\csi.rsp
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\System.AppContext.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\vbc.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\vbc.exe.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\vbc.rsp
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\Antlr3.Runtime.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\Newtonsoft.Json.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Helpers.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Mvc.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Optimization.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Razor.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.WebPages.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.WebPages.Razor.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\WebGrease.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Helpers.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Mvc.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Optimization.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.Razor.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.WebPages.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.WebPages.Deployment.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\System.Web.WebPages.Razor.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\Newtonsoft.Json.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\Antlr3.Runtime.pdb
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csprojAssemblyReference.cache
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.csproj.CopyComplete
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.dll
+C:\Users\desarrollo\Documents\Mauricio Gonzalez\GitRepos\CasaDeEmp\CasaDeEmpeño\obj\Debug\CasaDeEmpeño.pdb
